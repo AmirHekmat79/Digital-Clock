@@ -1,0 +1,20 @@
+*{
+    font-family:'Courgette', cursive;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background: linear-gradient(#56ab2f,#a8e063);
+}
+
+.column1{
+    padding :70px 0px;
+    border-radius:4px;
+    box-shadow:3px 3px 3px 3px #eeeeee52;
+} 
+span{
+    font-size:50px;
+}
